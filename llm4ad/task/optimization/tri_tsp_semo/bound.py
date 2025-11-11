@@ -1,0 +1,2 @@
+LOWER_BOUND = [0, 0, 0]
+UPPER_BOUND = [20, 20, 20]
