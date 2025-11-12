@@ -45,7 +45,7 @@ bound_map = {
 
 
 ALGORITHM_NAME = 'momcts'  # Could also be 'meoh', 'nsga2', 'mpage', 'moead'
-PROBLEM_NAME = "bi_cvrp"  # Could also be 'bi_kp', 'bi_cvrp'
+PROBLEM_NAME = "bi_kp"  # Could also be 'bi_kp', 'bi_cvrp'
 exact_log_dir_name = "ablation_study_2_raw_objectives/v10"  # must be unique for each run
 API_KEY = os.getenv("MISTRAL_API_KEY")  # change APIKEY1, APIKEY2, APIKEY3
 
